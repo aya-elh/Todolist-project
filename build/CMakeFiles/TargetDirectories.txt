@@ -1,3 +1,0 @@
-/home/abdessamad/Todolist-project/build/CMakeFiles/TodoList.dir
-/home/abdessamad/Todolist-project/build/CMakeFiles/edit_cache.dir
-/home/abdessamad/Todolist-project/build/CMakeFiles/rebuild_cache.dir

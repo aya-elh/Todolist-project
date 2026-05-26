@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/TodoList.dir/link.d CMakeFiles/TodoList.dir/src/FileManager.cpp.o CMakeFiles/TodoList.dir/src/PersonalTask.cpp.o CMakeFiles/TodoList.dir/src/Task.cpp.o CMakeFiles/TodoList.dir/src/TaskManager.cpp.o CMakeFiles/TodoList.dir/src/UI.cpp.o CMakeFiles/TodoList.dir/src/WorkTask.cpp.o CMakeFiles/TodoList.dir/src/main.cpp.o -o TodoList
